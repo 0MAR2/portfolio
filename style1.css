@@ -1,0 +1,121 @@
+body{
+    background-color: #3F0D43;
+}
+.ima{
+    height: 60px;
+    margin-left:0%;
+}
+nav{
+    background-color: aqua;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #6A2167;
+    color: #EB4E96;
+    position:fixed;
+    width:99%;
+
+}
+.c1{
+    margin-left: 70%;
+    border-right:2px solid #3F0D43;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+    
+}
+.c2{
+    border-right:2px solid #3F0D43;
+    border-left:2px solid #3F0D43;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.c3{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right:2px solid #3F0D43;
+    border-left:2px solid #3F0D43;
+    text-align: center;
+    padding-top: 15px;
+}
+footer{ 
+    display:flex;
+    flex-direction: row;
+    background-color: #6A2167;
+    justify-content: center;
+}
+.c4{
+    border-right:2px solid rgb(42, 3, 48);
+    margin:none;
+    width: 33%;
+    text-align: center;
+    color:#D32B73;
+    border-left:2px solid rgb(42, 3, 48);
+}
+.c5{
+    margin:none;
+    border-right:2px solid rgb(42, 3, 48);
+    border-left:2px solid rgb(42, 3, 48);
+    width: 34%;
+    text-align: center;
+}
+.c6{
+    margin:none;
+    border-left:2px solid rgb(42, 3, 48);
+    width: 33%;
+    text-align: center;
+    border-right:2px solid rgb(42, 3, 48);
+}
+a{
+    color:#D32B73;
+    text-decoration: none;
+}
+.ima2{
+    height: 400px;
+    background-color: #6A2167;
+    border-radius: 15px;
+    border:#6A2167 solid 5px;
+    margin-left: 170px;
+}
+.ima3{
+    height: 400px;
+    background-color: #6A2167;
+    border-radius: 15px;
+    border:#6A2167 solid 5px;
+    margin-left:4%;
+}
+h1{color: #EB4E96;}
+#VE,#FE{
+    background-color: #2A0330;
+    padding: 5px;
+    padding-top: 0.1px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+#My_skills{
+    background-color: #2A0330;
+    padding: 5px;
+    padding-top: 0.1px;
+    border-radius: 15px;
+    argin-top: 15px;
+}
+.ima4{
+    height: 400px;
+    width: 550px;
+    background-color: #6A2167;
+    border-radius: 15px;
+    border:#6A2167 solid 5px;
+    position:absolute;
+    margin-left: 15px;
+}
+.ima5{
+    height: 400px;
+    background-color: #6A2167;
+    border-radius: 15px;
+    border:#6A2167 solid 5px;
+    margin-left:52%;
+    width: 550px;
+}

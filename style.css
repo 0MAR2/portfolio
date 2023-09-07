@@ -1,0 +1,84 @@
+header{
+    font-size: 2cm;
+    text-align: center;
+    color: #BB0B52;
+    background-color: #EB4E96;
+}
+body{
+    background-color: #3F0D43;
+}
+footer{ 
+    display:flex;
+    flex-direction: row;
+    background-color: #6A2167;
+    justify-content: center;
+}
+.c1{
+    border-right:2px solid rgb(42, 3, 48);
+    border-left:2px solid rgb(42, 3, 48);
+    margin:none;
+    width: 33%;
+    text-align: center;
+    color:#D32B73;
+}
+.c2{
+    margin:none;
+    border-right:2px solid rgb(42, 3, 48)k;
+    border-left:2px solid rgb(42, 3, 48);
+    width: 34%;
+    text-align: center;
+}
+.c3{
+    margin:none;
+    border-right:2px solid rgb(42, 3, 48);
+    border-left:2px solid rgb(42, 3, 48);
+    width: 33%;
+    text-align: center;
+}
+a{
+    color:#D32B73;
+    text-decoration: none;
+}
+.poto{
+    background-color: aqua;
+    margin-left: 60%;
+    height: 400px;
+    width: 369px;
+    padding-right:none;
+    border: #EB4E96 solid 10px;
+    margin-top: 2%;
+
+    
+}
+img{
+    height: 400px;
+    
+
+}
+
+.intro{
+    margin-top: 0%;
+    background-color:#6A2167 ;
+    position: absolute;
+    height: 400px;
+    width: 369px;
+    margin-left: 8%;
+    border: #EB4E96 solid 10px;
+    text-align: center;
+    color:#EB4E96;
+}
+h1{
+    color:#BB0B52;
+    font-size: 25px;
+}
+.felsa{
+    background-color: aqua;
+    width: 172.5px;px;
+    margin-left: 43%;
+    height: 50px;
+}
+button{
+    color:#3F0D43;
+    background-color:#EB4E96;
+    height: 50px;
+}
